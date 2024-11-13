@@ -5,5 +5,4 @@
 - The Archipelago Community
 - Krista Corkos and Chris Wilson, for the logo
 - Chris Kirk Nielsen, for the Ottselesque font
-- Chris Armstrong
-- Michael Motley
+- My friends, who inspired me to work on this
